@@ -7,4 +7,4 @@ To run, simply clone the repository, install flask and sqlite3 if necessary and 
 The application logic allows users to sell their images to customers, but only if they have the required stock. There are also checks to make sure prices for images are never negative, though you can go in debt since there is no restriction on how much you buy from wholesalers.
 
 # Future Extensions
-Future extensions could include permissions and the uploading of large numbers of different images. The application could also allow store managers to get useful statistics on their products, like the most and least popular images. This could be also extended to allow for permissions for who is allowed to add and delete images. However this does constitute a Minimum Viable Product
+Future extensions could include permissions and the uploading of large numbers of different images. The application could also allow store managers to get useful statistics on their products, like the most and least popular images. This could be also extended to allow for permissions for who is allowed to add and delete images. However this does constitute a Minimum Viable Product.
